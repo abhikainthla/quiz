@@ -2,6 +2,9 @@
 
 This is a simple quiz application built with React. The app presents a series of questions related to React, and the user can select an answer for each question. The user's score is displayed at the end of the quiz along with the list of incorrectly answered questions.
 
+## Hosted link
+[Quiz app](https://669949cbc5276c1cbf612569--aesthetic-shortbread-d5c9f3.netlify.app/)
+
 ## Features
 - Multiple choice questions related to React.
 - Tracks and displays the current score.
